@@ -1,6 +1,6 @@
 # Vireon - Malaria Cell Detection and Classification from Microscopic Images
 
-This project uses a YOLO model to detect and classify different types of malaria cells in microscope images.
+This project uses a YOLOv10 model to detect and classify different types of malaria cells in microscope images.
 
 ![alt text](image-3.png)
 ![alt text](image-4.png)
