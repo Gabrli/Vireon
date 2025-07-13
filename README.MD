@@ -2,7 +2,8 @@
 
 This project uses a YOLOv10 model to detect and classify different types of malaria cells in microscope images.
 
-
+![alt text](image.png)
+![alt text](image-1.png)
 
 ## Project Structure
 
