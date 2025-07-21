@@ -1,7 +1,7 @@
 task: detect
 mode: train
-model: C:/Users/pawel/runs/detect/my_exp/weights/best.pt
-data: C:\Users\pawel\OneDrive\Dokumenty\Astrodelta\server\data.yaml
+model: C:/Users/pawel/runs/detect/my_exp/weights/best.pt - OLD PATH
+data: C:\Users\pawel\OneDrive\Dokumenty\Astrodelta\server\data.yaml - OLD PATH
 epochs: 40
 time: null
 patience: 100
